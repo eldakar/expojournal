@@ -1,0 +1,18 @@
+{
+    "macro_to_reload_elements": {
+    },
+    "fields": [
+        {
+            "name": "expojournal.steps_to_level",
+            "default_value": false,
+            "field_type": "boolean",
+            "macros_on_modify": []
+        },
+        {
+            "name": "expojournal.steps_so_far",
+            "default_value": true,
+            "field_type": "boolean",
+            "macros_on_modify": []
+        }
+    ]
+}
